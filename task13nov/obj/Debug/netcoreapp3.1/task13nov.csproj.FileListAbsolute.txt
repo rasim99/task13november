@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\task13nov\task13nov\bin\Debug\netcoreapp3.1\task13nov.exe
+C:\Users\ASUS\Desktop\task13nov\task13nov\bin\Debug\netcoreapp3.1\task13nov.deps.json
+C:\Users\ASUS\Desktop\task13nov\task13nov\bin\Debug\netcoreapp3.1\task13nov.runtimeconfig.json
+C:\Users\ASUS\Desktop\task13nov\task13nov\bin\Debug\netcoreapp3.1\task13nov.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\task13nov\task13nov\bin\Debug\netcoreapp3.1\task13nov.dll
+C:\Users\ASUS\Desktop\task13nov\task13nov\bin\Debug\netcoreapp3.1\task13nov.pdb
+C:\Users\ASUS\Desktop\task13nov\task13nov\obj\Debug\netcoreapp3.1\task13nov.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\task13nov\task13nov\obj\Debug\netcoreapp3.1\task13nov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\task13nov\task13nov\obj\Debug\netcoreapp3.1\task13nov.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\task13nov\task13nov\obj\Debug\netcoreapp3.1\task13nov.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\task13nov\task13nov\obj\Debug\netcoreapp3.1\task13nov.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\task13nov\task13nov\obj\Debug\netcoreapp3.1\task13nov.dll
+C:\Users\ASUS\Desktop\task13nov\task13nov\obj\Debug\netcoreapp3.1\task13nov.pdb
+C:\Users\ASUS\Desktop\task13nov\task13nov\obj\Debug\netcoreapp3.1\task13nov.genruntimeconfig.cache
